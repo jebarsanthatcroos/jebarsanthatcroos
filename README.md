@@ -81,24 +81,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jebarsanthatcroos&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/jebarsanthatcroos/jebarsanthatcroos/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-### ✨ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
