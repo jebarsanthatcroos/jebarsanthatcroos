@@ -32,9 +32,15 @@ fun_fact: I love turning complex problems into clean, animated UIs
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-jebarsanthatcroos%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jebarsanthatcroos@gmail.com)
-[![GitHub](https://img.shields.io/badge/-jebarsanthatcroos-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jebarsanthatcroos)
-[![LinkedIn](https://img.shields.io/badge/-jebarsanthatcroos-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/jebarsanthatcroos)
+<a href="mailto:jebarsanthatcroos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/jebarsanthatcroos" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/jebarsanthatcroos" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -80,11 +86,11 @@ fun_fact: I love turning complex problems into clean, animated UIs
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jebarsanthatcroos&theme=synthwave&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=jebarsanthatcroos&theme=synthwave&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jebarsanthatcroos&theme=synthwave&bg_color=1a1a2e&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jebarsanthatcroos&theme=synthwave-red&bg_color=1a1a2e&hide_border=true" width="95%"/>
 </div>
 
 <br/>
