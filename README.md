@@ -23,3 +23,73 @@ currently_building: Scalable web applications
 learning: Microservices • AWS • Docker • Advanced Animations
 ask_me_about: Spring Boot, React, Next.js, MongoDB, Firebase, TailwindCSS
 fun_fact: I love turning complex problems into clean, animated UIs
+```
+
+<br/>
+
+<!-- ========================== CONNECT ========================== -->
+## 📡 Connect
+
+<div align="center">
+
+<a href="mailto:jebarsanthatcroos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/jebarsanthatcroos" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/jebarsanthatcroos" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================== TECH STACK ========================== -->
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Languages & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs&theme=dark" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
+
+<br/><br/>
+
+**Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ========================== STATS ========================== -->
+<!-- ========================== CONTRIBUTION SNAKE ========================== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+<br/>
+
+<!-- ========================== FOOTER ========================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<p align="center">
+  ⚡ <i>Powered by coffee, curiosity, and clean code</i> — <a href="https://github.com/jebarsanthatcroos">Jebarsan Thatroos</a>
+</p>
