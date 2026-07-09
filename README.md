@@ -1,45 +1,56 @@
 <!-- ========================== HEADER ========================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Jebarsan%20Thatroos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React%20|%20Next.js&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=550&lines=const+dev+%3D+%7B+role%3A+%27Full+Stack+Dev%27+%7D%3B;building+scalable+web+apps...;Spring+Boot+%2B+React+%2B+Next.js;always+shipping+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:2c5364&height=220&section=header&text=Jebarsan%20Thatroos&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=JEBARSANTHATCROOS&style=for-the-badge&color=00FFA3&labelColor=1a1a2e" alt="Profile views" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2ED573&center=true&vCenter=true&width=500&lines=git+commit+-m+%22building+cool+stuff%22;Spring+Boot+%7C+React+%7C+Next.js;shipping+clean%2C+scalable+code" />
 
 </div>
 
 <br/>
 
 <!-- ========================== ABOUT ========================== -->
-## 🖥️ `whoami`
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-name: Jebarsan Thatroos
-role: Full Stack Developer
-currently_building: Scalable web applications
-learning: Microservices • AWS • Docker • Advanced Animations
-ask_me_about: Spring Boot, React, Next.js, MongoDB, Firebase, TailwindCSS
-fun_fact: I love turning complex problems into clean, animated UIs
-```
+### 👋 About Me
+- 🔭 Building **full stack web applications**
+- 🌱 Learning **Microservices, AWS, Docker, advanced animations**
+- 💬 Ask me about **Spring Boot, React, Next.js, MongoDB, Firebase**
+- ⚡ I enjoy turning complex problems into clean, animated UIs
+
+</td>
+<td width="50%" valign="top">
+
+### 📇 Quick Info
+| | |
+|---|---|
+| 🎓 Focus | Full Stack Development |
+| 🛠️ Backend | Java · Spring Boot · Node.js |
+| 🎨 Frontend | React · Next.js · Tailwind |
+| 🗄️ Databases | MongoDB · PostgreSQL · MySQL |
+| 📫 Reach me | jebarsanthatcroos@gmail.com |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <!-- ========================== CONNECT ========================== -->
-## 📡 Connect
-
 <div align="center">
 
 <a href="mailto:jebarsanthatcroos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-2ED573?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/jebarsanthatcroos" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-2C5364-2ED573?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/jebarsanthatcroos" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-2ED573?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -47,49 +58,75 @@ fun_fact: I love turning complex problems into clean, animated UIs
 <br/>
 
 <!-- ========================== TECH STACK ========================== -->
-## 🧰 Tech Arsenal
+### 🧰 Tech Stack
 
 <div align="center">
-
-**Languages & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js&theme=dark" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
-
-<br/><br/>
-
-**Tools & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,js,ts,html,css,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,git,github,docker,vscode,idea&theme=dark" />
 </div>
 
 <br/>
 
-<!-- ========================== STATS ========================== -->
+<!-- ========================== FEATURED PROJECTS ========================== -->
+### 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🩸 BloodCare**
+<br/>
+Blood donation platform with role-aware routing and real-time data.
+<br/>
+`Next.js` `Firebase` `Tailwind` `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+**🏥 Medicare Hub**
+<br/>
+Healthcare management platform with 6 role-based dashboards.
+<br/>
+`Next.js` `MongoDB` `NextAuth` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📅 Workbooking App**
+<br/>
+Booking system with full Jest test coverage across API routes.
+<br/>
+`Next.js` `TypeScript` `Prisma` `Firebase Auth`
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 E-Commerce Platform**
+<br/>
+Storefront with full CRUD banners and Cloudinary image handling.
+<br/>
+`Next.js` `Cloudinary` `Admin UI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ========================== CONTRIBUTION SNAKE ========================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
 <br/>
 
 <!-- ========================== FOOTER ========================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 </div>
 
 <p align="center">
-  ⚡ <i>Powered by coffee, curiosity, and clean code</i> — <a href="https://github.com/jebarsanthatcroos">Jebarsan Thatroos</a>
+  <sub>Built with 🟢 by <a href="https://github.com/jebarsanthatcroos">Jebarsan Thatroos</a></sub>
 </p>
