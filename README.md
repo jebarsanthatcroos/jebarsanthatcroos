@@ -78,23 +78,6 @@ fun_fact: I love turning complex problems into clean, animated UIs
 <br/>
 
 <!-- ========================== STATS ========================== -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jebarsanthatcroos&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebarsanthatcroos&layout=donut-vertical&theme=synthwave&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jebarsanthatcroos&theme=synthwave&hide_border=true" alt="GitHub Streak" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jebarsanthatcroos&theme=synthwave-red&bg_color=1a1a2e&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
 <!-- ========================== CONTRIBUTION SNAKE ========================== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
